@@ -4683,7 +4683,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Behaviors.Sin,
 		C3.Plugins.Text,
 		C3.Plugins.Audio,
-		C3.Plugins.Touch.Cnds.OnTouchObject,
+		C3.Plugins.Touch.Cnds.OnTapGestureObject,
 		C3.Plugins.System.Acts.GoToLayout,
 		C3.Plugins.System.Cnds.OnLayoutStart,
 		C3.Plugins.Audio.Acts.StopAll,
